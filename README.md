@@ -1,1 +1,2 @@
-# whataretheodds It is a function that will upload a random number given the upper bound number in JavaScript.
+# whataretheodds 
+It is a program that will generate a random number given the upper bound limit in JavaScript.
