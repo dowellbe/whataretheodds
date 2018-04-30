@@ -1,0 +1,19 @@
+{
+  "name": "whataretheodds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wato.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dowellbe/whataretheodds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
